@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Rehber</title>
+</head>
+<body background="japonya1.jpg">
+<center>
+<h1>Japonya</h1>
+<p style="padding-left:100px;padding-right: 100px"><b>Japonya, Doğu Asya'da yer alan bir ada ülkesidir. Büyük Okyanus'un kuzeybatısında konumlanan ülke; Japon Denizi'nden Çin, Kuzey Kore, Güney Kore ve Rusya'nın doğusuna; kuzeyde Ohotsk Denizi'nden güneyde Doğu Çin Denizi ve Tayvan'a kadar uzanır. De facto başkenti ve en büyük şehri Tokyo'dur. Adını oluşturan kanji karakterler, "güneş" ve "köken" anlamına geldiğinden "Doğan Güneşin Ülkesi" olarak adlandırılır.
+
+Japonya, 14.125 adadan oluşan bir takımadadır. Bu adaların en büyükleri olan Honşū, Hokkaidō, Kyūshū ve Shikoku; ülke yüzölçümünün %97'sini oluşturur ve genellikle ev adaları olarak anılır. 125 milyonun üzerinde nüfusuyla dünyanın en yüksek nüfuslu 11. ülkesi ve aynı zamanda en kalabalık nüfuslu ülkelerden biridir. Ülke topraklarının yaklaşık dörtte üçü dağlıktır ve bu da yüksek oranda kentleşmiş nüfusun dar kıyı ovalarında yoğunlaşmasına yol açar. Ülke; idari olarak 47 prefektörlüğe, coğrafi olarak sekiz geleneksel bölgeye ayrılır. Başkent Tokyo ve çevresindeki bulunan prefektörlükler ile şehirleri kapsayan Büyük Tokyo Metropolü, dünyanın en yüksek nüfuslu metropoliten alanıdır.</b></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G5RpJwCJDqc?si=PetJVd-6ofHlzhEN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="padding-Left:100px;padding-right: 100px"><b>Arkeolojik araştırmalar Üst Paleolitik dönemden beri insanların Japon adalarında yaşadığını göstermektedir. Yazılı tarihte Japonya'nın adı ilk olarak 1. yüzyıldan kalma Çin metinlerinde geçer. Japonya'nın tarihi dış dünyadan etkilendikten sonra çok uzun yıllar boyunca tecrit edilmesiyle şekillenmiştir. MS dördüncü ve dokuzuncu yüzyıllar arasında, Japonya krallıkları bir imparator ve Heian-kyō merkezli Yamato Hanedanı altında birleşti. 12. yüzyıldan başlayarak, siyasi iktidar şogun adı verilen bir dizi askerî lider ve daimyo denilen feodal beylerin elindeydi ve bir savaşçı soylu sınıfı olan samuraylar tarafından uygulanıyordu. Bir asır süren iç savaş döneminin ardından ülke, 1603 yılında izolasyoncu bir dış politika uygulayan Tokugawa şogunluğu altında yeniden birleşti. 1854'te Amerika Birleşik Devletleri filosu, Japonya'yı Batı'ya açmaya zorlaması şogunluğun sona ermesine ve 1868'de imparatorluk otoritesinin yeniden kurulmasına yol açtı. Meiji Dönemi'nde, yeni Japon İmparatorluğu Batı modelli bir anayasayı kabul etti ve sanayileşme ve modernleşme programını izledi. 19. yüzyılın sonları ve 20. yüzyılın başlarında, Birinci Çin-Japon Savaşı, Rus-Japon Savaşı ve I. Dünya Savaşı'ndaki zaferler ile birlikte militarizmin arttığı bir döneminde Japonya, 1937'de Çin'e savaş ilan etti ve 1941'de Mihver gücü olarak II. Dünya Savaşı'na girdi. Pasifik Cephesi'nde yenilgiye uğrayan ve iki atom bombasına maruz kalan Japonya, 1945'te teslim oldu ve yedi yıllık Müttefik işgali altına girdi. Bu işgal sırasında yeni bir anayasa kabul edildi. Savaştan sonra Japonya, 1990'lardaki ekonomik durgunluğa kadar süren büyük bir ekonomik mucize elde etti.</b></p>
+
+</body>
+</html>
