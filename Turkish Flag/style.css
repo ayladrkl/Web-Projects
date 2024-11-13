@@ -1,0 +1,49 @@
+.flag{
+	background-image:linear-gradient(to left,red,white);
+	width: 390px;
+	height: 290px;
+	position: relative;
+
+}
+
+.moon{
+	top:48px;
+	left: 120px;
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	background-color: transparent;
+	border-radius:50%;
+	box-shadow: -25px 0px 0px 15px #ffffff;
+}
+
+.star{
+	position: absolute;
+	top:100px;
+	left:230px;
+	transform: rotate(93deg);
+	border-right: 50px solid transparent;
+	border-left: 50px solid transparent;
+	border-bottom: 33px solid #ffffff;
+}
+
+.star:before{
+	border-bottom: 53px solid #ffffff;
+	border-left: 6px solid transparent;
+	border-right: 30px solid transparent;
+	position: absolute;
+	top:-32px;
+	left:-27px;
+	content:'';
+	transform: rotate(-28deg);
+}
+
+.star:after{
+	border-bottom: 35px solid #ffffff;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	position: absolute;
+	left:-50px;
+	content:'';
+	transform: rotate(-70deg);
+}
