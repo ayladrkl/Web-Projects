@@ -1,0 +1,45 @@
+index
+<!DOCTYPE html>
+<html>
+<head>
+	<title>animasyonn</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div id="box"></div>
+<button id=playBtn>Oynat</button>
+<button id=pauseBtn>Durdur</button>
+
+<script src="script.js" type="text/javascript"></script>
+</body>
+</html>
+
+css
+#box {
+        width: 60px;
+        height: 60px;
+        background: blue;
+        position: relative;
+        animation: kayma 5s;
+        animation-play-state: paused;
+        
+}
+@keyframes kayma {
+        from {left: 0}
+        to {left: 400px}
+}
+
+java
+
+var play = document.getElementById('playBtn'),
+    pause = document.getElementById('pauseBtn'),
+    box = document.getElementById('box');
+    
+    play.addEventListener('click', function(){
+        box.style.animationPlayState = "running";
+    });
+    
+    pause.addEventListener('click', function(){
+        box.style.animationPlayState = "paused";
+    });
