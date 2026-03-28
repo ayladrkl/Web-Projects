@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+	font-family: Arial, sans-serif;
+	background: #111;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.container{
+	text-align: center;
+}
+
+.box{
+	width: 200px;
+	height: 200px;
+	margin: 30px auto;
+	background: gray;
+	display: none;
+}
+
+.info{
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+.result{
+	margin-top: 15px;
+	font-weight: bold;
+}
